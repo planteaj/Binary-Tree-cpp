@@ -1,0 +1,19 @@
+Plante_assignment4:
+total 92
+-rw-r--r--. 1 myid  2876 Jul  9 14:51 BinaryTree.cpp
+-rw-r--r--. 1 myid  3105 Jul  9 14:50 BinaryTree.cpp~
+-rw-r--r--. 1 myid   537 Jul  9 14:31 BinaryTree.h
+-rw-r--r--. 1 myid   503 Jul  9 14:27 BinaryTree.h~
+-rw-r--r--. 1 myid  8408 Jul 13 14:29 BinaryTree.o
+-rw-r--r--. 1 myid    29 Jul  9 14:35 input.txt
+-rw-r--r--. 1 myid   445 Jul  7 13:27 ItemType.cpp
+-rw-r--r--. 1 myid   281 Jul  7 13:27 ItemType.h
+-rw-r--r--. 1 myid  3080 Jul 13 14:29 ItemType.o
+-rwxr-xr-x. 1 myid 19880 Jul 13 14:32 main
+-rw-r--r--. 1 myid  2233 Jul 13 14:32 main.cpp
+-rw-r--r--. 1 myid  2231 Jul  9 14:59 main.cpp~
+-rw-r--r--. 1 myid  9192 Jul 13 14:32 main.o
+-rw-r--r--. 1 myid   275 Jul 13 14:29 Makefile
+-rw-r--r--. 1 myid   158 Jul 13 14:37 Readme.txt
+-rw-r--r--. 1 myid     0 Jul 13 14:39 rec15947
+/home/myid/arp75723/Plante_assignment4:/home/myid/csci-2720
