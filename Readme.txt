@@ -1,4 +1,1 @@
-Andrew Plante, arp75723@uga.edu
-
-in order to compile the code, just type make to run the make command
-to run the code, type ./main input.txt to run the code.
+This was a project for my Data Structures class. I implement a Binary Tree Data Strucutre
